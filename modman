@@ -1,0 +1,10 @@
+app/code/community/GT/Speed                                     webroot/app/code/community/GT/Speed
+app/design/adminhtml/default/default/layout/*           webroot/app/design/adminhtml/default/default/layout/
+app/design/adminhtml/default/default/template/gtspeed/*         webroot/app/design/adminhtml/default/default/template/gtspeed/
+app/etc/modules/*                                               webroot/app/etc/modules/
+locale/en_US/template/email/*                                   webroot/locale/en_US/template/email/
+js/gtspeed/*                                                    webroot/js/
+lib/gtspeed/*                                                   webroot/lib/gtspeed/
+min                                                             webroot/min
+skin/adminhtml/default/default/gtspeed/*                        webroot/skin/adminhtml/default/default/gtspeed/*
+var/mincache/*                                                  webroot/var/mincache
